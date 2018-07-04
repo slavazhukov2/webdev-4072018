@@ -1,6 +1,6 @@
 <?php
 
-    echo "Hi from GIT!";
+    echo "Hi fываываываrom GIT!";
     echo "А это мой echo";
     echo "Another echo";
     echo "One more echo";
